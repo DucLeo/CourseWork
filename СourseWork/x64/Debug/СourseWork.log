@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Draken\source\repos\СourseWork\СourseWork\PolishNotation.h(47,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  СourseWork.vcxproj -> C:\Users\Draken\source\repos\СourseWork\x64\Debug\СourseWork.exe
